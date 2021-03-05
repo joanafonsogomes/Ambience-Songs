@@ -1,5 +1,3 @@
 # 1AM study session
 
-Description: 1 A.M Study Session 📚 - [lofi hip hop/chill beats]
-Mood: Calm
-Others: Lofi
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?time_continue=3197&v=lTRiuFIWV54&feature=emb_logo&ab_channel=ChilledCow/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?time_continue=3197&v=lTRiuFIWV54&feature=emb_logo&ab_channel=ChilledCow)
