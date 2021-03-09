@@ -1,4 +1,4 @@
-![](https://github.com/joanafonsogomes/AmbienceSongs/blob/main/header.JPG)
+![](https://github.com/joanafonsogomes/AmbienceSongs/blob/main/Images/header.JPG)
 
 <center>
   
